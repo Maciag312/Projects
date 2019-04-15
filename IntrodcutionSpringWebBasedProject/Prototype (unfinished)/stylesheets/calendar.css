@@ -1,0 +1,349 @@
+/* line 1, ../sass/resetBasic.sass */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+/* line 21, ../sass/resetBasic.sass */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+
+/* line 25, ../sass/resetBasic.sass */
+mark {
+  background: none;
+}
+
+/* line 28, ../sass/resetBasic.sass */
+a {
+  color: blue;
+  text-decoration: none;
+}
+
+/* line 32, ../sass/resetBasic.sass */
+body {
+  font-size: 13px;
+  font-family: "Open Sans";
+  color: #111;
+  background-color: #fff;
+}
+
+/* line 37, ../sass/resetBasic.sass */
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* line 42, ../sass/resetBasic.sass */
+html, body {
+  height: 100%;
+}
+
+/* line 45, ../sass/resetBasic.sass */
+textarea {
+  border: none;
+  overflow: auto;
+  outline: none;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+  font-family: inherit;
+  resize: none;
+  font-size: inherit;
+}
+
+/* line 1, ../sass/linkStyles.sass */
+.AFMLinkAesthetic {
+  color: #26b4ec;
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 13px;
+  font-family: "Montserrat";
+  text-align: center;
+  width: 100%;
+}
+
+/* line 10, ../sass/linkStyles.sass */
+.AFMLinkAesthetic:hover {
+  cursor: pointer;
+}
+
+/* line 3, ../sass/formElements.sass */
+.AFMSmallTick {
+  background-color: #F0F0F0;
+  -moz-border-radius: 25%;
+  -webkit-border-radius: 25%;
+  border-radius: 25%;
+  width: 12px;
+  height: 12px;
+}
+
+/* line 8, ../sass/formElements.sass */
+.AFMTick {
+  background-color: transparent;
+  border: 3px solid #1c4da3;
+  -moz-border-radius: 25%;
+  -webkit-border-radius: 25%;
+  border-radius: 25%;
+  width: 16px;
+  height: 16px;
+}
+
+/* line 13, ../sass/calendar.sass */
+.calendarTab {
+  display: table;
+  table-layout: fixed;
+  width: 100%;
+  height: 100%;
+}
+/* line 18, ../sass/calendar.sass */
+.calendarTab > aside, .calendarTab > section {
+  vertical-align: top;
+}
+/* line 20, ../sass/calendar.sass */
+.calendarTab > aside {
+  display: table-cell;
+  width: 18%;
+}
+/* line 23, ../sass/calendar.sass */
+.calendarTab > section {
+  display: table-cell;
+  width: 82%;
+  height: 100%;
+}
+
+/* line 29, ../sass/calendar.sass */
+.calendarTabList {
+  border-right: 1px solid #adadad;
+}
+/* line 31, ../sass/calendar.sass */
+.calendarTabList > h3 {
+  color: #EEE;
+  text-align: center;
+  font-size: 14px;
+  background-color: #1c4da3;
+  font-family: "Montserrat";
+  padding: 6px;
+}
+/* line 33, ../sass/calendar.sass */
+.calendarTabList > nav {
+  background-color: #497fce;
+  padding: 3px;
+  color: #EEE;
+  font-family: "Montserrat";
+  font-size: 13px;
+  text-align: center;
+}
+/* line 40, ../sass/calendar.sass */
+.calendarTabList > nav > div {
+  display: inline-block;
+  margin: 2px;
+}
+
+/* line 45, ../sass/calendar.sass */
+.calendarTabListContainer > li {
+  padding: 6px;
+  border-bottom: 1px solid #adadad;
+  border-top: 1px solid #adadad;
+}
+/* line 49, ../sass/calendar.sass */
+.calendarTabListContainer > li > div {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+/* line 53, ../sass/calendar.sass */
+.calendarTabNavbar {
+  width: 100%;
+  overflow: hidden;
+  border-bottom: 1px solid #adadad;
+}
+
+/* line 58, ../sass/calendar.sass */
+.calendarTabOptions {
+  float: left;
+}
+
+/* line 61, ../sass/calendar.sass */
+.calendarTabPeriodSetter {
+  white-space: nowrap;
+  float: right;
+}
+
+/* line 65, ../sass/calendar.sass */
+.calendarTabOptions > div, .calendarTabPeriodSetter > div {
+  display: inline-block;
+}
+
+/* line 68, ../sass/calendar.sass */
+.calendarTabOptionsGroup {
+  font-family: "Montserrat";
+  color: #EEE;
+  background-color: #1c4da3;
+  font-size: 10.4px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  margin: 6px;
+}
+
+/* line 76, ../sass/calendar.sass */
+.calendarTabOptionContent {
+  padding: 6px;
+  display: inline-block;
+  position: relative;
+  border-right: 2px solid #fff;
+}
+/* line 81, ../sass/calendar.sass */
+.calendarTabOptionContent > .AFMSmallTick + div {
+  margin-left: 15px;
+}
+/* line 83, ../sass/calendar.sass */
+.calendarTabOptionContent > .AFMSmallTick {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+/* line 89, ../sass/calendar.sass */
+.calendarTabOptionContent:last-of-type, .calendarTabOptionContent > div {
+  border: 0px;
+}
+
+/*
+ *WEEK CALENDAR STYLES
+ *
+ */
+/* line 98, ../sass/calendar.sass */
+.calendarTabWeekView {
+  width: 100%;
+  position: relative;
+  overflow: auto;
+  font-family: "Montserrat";
+}
+/* line 103, ../sass/calendar.sass */
+.calendarTabWeekView > div {
+  display: table;
+  width: 100%;
+  height: 100%;
+}
+
+/* line 108, ../sass/calendar.sass */
+.calendarTabWeekDay {
+  min-width: 135px;
+  text-align: center;
+  display: table-cell;
+  vertical-align: top;
+  position: relative;
+}
+/* line 114, ../sass/calendar.sass */
+.calendarTabWeekDay > h3 {
+  font-size: 23.8px;
+  color: #1c4da3;
+}
+/* line 117, ../sass/calendar.sass */
+.calendarTabWeekDay > h5 {
+  font-size: 16.1px;
+}
+
+/* line 120, ../sass/calendar.sass */
+.calendarTabWeekDay:nth-child(even) {
+  background-color: #F0F0F0;
+}
+
+/* line 123, ../sass/calendar.sass */
+.calendarTabWeekHours {
+  display: table-cell;
+  width: 50px;
+  color: #555;
+  padding-top: 34px;
+}
+
+/* line 129, ../sass/calendar.sass */
+.calendarTabDelim {
+  height: 38px;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 4px;
+  font-size: 11.7px;
+}
+
+/* line 134, ../sass/calendar.sass */
+.calendarTabDelim:nth-child(even) {
+  font-size: 9.1px;
+}
+
+/* line 136, ../sass/calendar.sass */
+.calendarTabDelim:last-child {
+  height: auto;
+  padding-bottom: 2px;
+}
+
+/* line 140, ../sass/calendar.sass */
+.calendarTabLiner {
+  position: absolute;
+  z-index: 10;
+  top: 47.7px;
+  left: 0;
+  padding: 5px;
+  width: 100%;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* line 149, ../sass/calendar.sass */
+.calendarThickLine:first-child {
+  margin-top: 0;
+}
+
+/* line 151, ../sass/calendar.sass */
+.calendarThickLine {
+  height: 2px;
+  width: 100%;
+  margin-top: 36px;
+  background-color: #555;
+}
+
+/* line 156, ../sass/calendar.sass */
+.calendarThickLine:nth-child(even) {
+  height: 1px;
+  margin-top: 37px;
+}
+
+/* line 160, ../sass/calendar.sass */
+.calendarTabDisplayedTask {
+  left: 0;
+  width: 94%;
+  left: 3%;
+  background-color: rgba(28, 77, 163, 0.45);
+  -moz-border-radius: 15px;
+  -webkit-border-radius: 15px;
+  border-radius: 15px;
+  position: absolute;
+  border: 2px solid #1c4da3;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  margin-top: 19.7px;
+}

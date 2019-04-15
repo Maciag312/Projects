@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author bartekmaciag
+ *
+ */
+module HelloWorld {
+}

@@ -1,0 +1,32 @@
+<html lang="PL-pl">
+    <head>
+        <title>Guten Morgen alle Leute!</title>
+        <meta charset="UTF-8">
+        <style>
+            .navbarMain{
+                width: 100%;
+                text-align: center;
+                margin-bottom: 40px;
+            }
+            .navbarItem{
+                display: inline-block;               
+                padding: 5px;
+                margin: 5px;
+                border: 1px solid black;
+            }
+            h2{
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <div id = "myApp">
+            <title-tab v-bind:vtitle = "PageTitle"></title-tab>
+            <navbar v-bind:tasks = "Tasks"></navbar>
+            <adder-tab @add-new = "onAddNew"></adder-tab>
+            <task-list v-bind:tasks = "Tasks"></task-list>
+        </div>      
+    </body>
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <script src="vueProject.js"></script>
+</html>

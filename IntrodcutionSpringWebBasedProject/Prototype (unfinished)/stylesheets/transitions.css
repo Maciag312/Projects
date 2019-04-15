@@ -1,0 +1,9 @@
+/* line 1, ../sass/transitions.sass */
+.rollUp-enter-active, .rollUp-leave-active {
+  transition: opacity 1.5s;
+}
+
+/* line 4, ../sass/transitions.sass */
+.rollUp-enter, .rollUp-leave-to {
+  opacity: 0;
+}
