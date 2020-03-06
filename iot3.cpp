@@ -16,7 +16,7 @@ void setup()
 {
     Serial.begin(9600);
     pinMode(BUTTON_BLUE_PIN, INPUT_PULLUP); //przycisk jako wejście
-    Serial.println("Give message!");
+    Serial.println("Type message!");
     pinMode(LED_PIN, OUTPUT);
 }
 
@@ -28,7 +28,7 @@ void loop()
     digitalWrite(LED_PIN, LOW);
   }
   
-  if(((millis()-timeStart)>towait)&&towait!=0&&isBlinked){
+  if(((millis()-timeStart)>towait)&&isBlinked){
     turnlight = false;
     isBlinked = false;
   }
@@ -44,7 +44,7 @@ void loop()
       turnlight = false; 
       wiadomosc = "";
     }else if(wiadomosc.substring(0,9) == "LED BLINK"){
-              
+          
       if(wiadomosc.length()==9){
            turnlight = true;
            isBlinked = true;
