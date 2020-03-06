@@ -45,10 +45,14 @@ void loop()
       diftime-=1000*minutes;
       
       Serial.print(hours);
+      if(hours<10) Serial.print('0');
       Serial.print(':');
       Serial.print(minutes);
+      if(minutes<10) Serial.print('0');
       Serial.print(':');
       Serial.print(seconds);
+      if(seconds<10) Serial.print('0');
+
       Serial.print(':');
       Serial.println(diftime);
 
