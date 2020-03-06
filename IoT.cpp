@@ -1,4 +1,3 @@
-
 #define LED_PIN 6
 #define BUTTON_BLUE_PIN 2
 #define BUTTON_RED_PIN 4
@@ -21,7 +20,6 @@ void loop()
 {
   bool currentBtnBlueState = digitalRead(BUTTON_BLUE_PIN);
   bool currentBtnRedState = digitalRead(BUTTON_RED_PIN);
-  
   if((currentBtnRedState == LOW && currentBtnBlueState == LOW)){
 
     delay(50);
@@ -42,8 +40,7 @@ void loop()
         Serial.println(counter);
     }
   }
-   lastBtnBlueState = currentBtnBlueState;
-   if(lastBtnRedState!=currentBtnRedState){ //DECREMENT
+  else if(lastBtnRedState!=currentBtnRedState){ //DECREMENT
 
     delay(50);
        if(currentBtnRedState == HIGH){
@@ -52,6 +49,6 @@ void loop()
         Serial.println(counter);
        }
   }
+  lastBtnBlueState = currentBtnBlueState;
   lastBtnRedState = currentBtnRedState;
-
 }
