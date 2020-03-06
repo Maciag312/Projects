@@ -9,15 +9,16 @@ bool lastBtnRedState = LOW;
 unsigned long diftime;
 int hours = 0;
 int minutes = 0; 
+
 int seconds = 0; 
 int miliseconds =0;
 
 void setup()
 {
-  	Serial.begin(9600);
-  	pinMode(BUTTON_BLUE_PIN, INPUT_PULLUP); //przycisk jako wejście
-  	Serial.println("Wcisnij przycisk!");
-  	pinMode(LED_PIN, OUTPUT);
+    Serial.begin(9600);
+    pinMode(BUTTON_BLUE_PIN, INPUT_PULLUP); //przycisk jako wejście
+    Serial.println("Wcisnij przycisk!");
+    pinMode(LED_PIN, OUTPUT);
 }
 
 void loop()
@@ -25,12 +26,12 @@ void loop()
   bool currentBtnBlueState = digitalRead(BUTTON_BLUE_PIN);
   if(lastBtnBlueState!=currentBtnBlueState ){ //INCREMENT
     delay(50);
-     if(currentBtnBlueState == HIGH){
-      	diftime = millis();
+     if(currentBtnBlueState == LOW){
+        diftime = millis();
     }
-    else if(currentBtnBlueState == LOW){
-  		counter++;
-      	diftime =  millis()-diftime;
+    else if(currentBtnBlueState == HIGH){
+      counter++;
+        diftime =  millis()-diftime;
       Serial.print("Czas: ");
       Serial.println(diftime);
       Serial.print("Czas w formacie: ");
