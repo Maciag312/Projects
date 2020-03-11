@@ -20,6 +20,12 @@ void loop()
 {
   bool currentBtnBlueState = digitalRead(BUTTON_BLUE_PIN);
   bool currentBtnRedState = digitalRead(BUTTON_RED_PIN);
+  Serial.print("Red state: ");
+  Serial.println(currentBtnRedState);
+  
+  Serial.print("Blue state: ");
+  Serial.println(currentBtnBlueState);
+  
   if((currentBtnRedState == LOW && currentBtnBlueState == LOW)){
 
     delay(50);
@@ -43,7 +49,7 @@ void loop()
   else if(lastBtnRedState!=currentBtnRedState){ //DECREMENT
 
     delay(50);
-       if(currentBtnRedState == HIGH){
+       if(currentBtnRedState == LOW){
       counter--;
         Serial.print("Blue counter: ");
         Serial.println(counter);
