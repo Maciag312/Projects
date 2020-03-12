@@ -4,8 +4,11 @@ char data[100];
 
 #define BUTTON 6
 
-#include <LiquidCrystal.h>
-LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
+#include<Wire.h> 
+#include<LiquidCrystal_I2C.h>   // Aleternative vs. #include <LiquidCrystal.h>
+
+
+LiquidCrystal_I2C lcd(0x27, 2, 1, 0, 4, 5, 6, 7, 3, POSITIVE);  // Alterative vs. LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
 float holder = 0; 
 
 bool lastState = HIGH; 
@@ -21,7 +24,7 @@ void setup() {
 
 void loop() {
   if(backlight){
-    lcd.backlight(); 
+    lcd.backlight();
    // Serial.println("backlight is now on");
   }else{
     lcd.noBacklight(); 
@@ -44,5 +47,5 @@ void loop() {
   Serial.print(",");//seperator another version is '/t' although here only ',' works
   Serial.print(backlight);
   Serial.println("");
-  delay(25);
+  delay(10);
 }
