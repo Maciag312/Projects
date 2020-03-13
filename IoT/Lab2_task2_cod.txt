@@ -4,11 +4,11 @@ char data[100];
 
 #define BUTTON 6
 
-#include<Wire.h> 
-#include<LiquidCrystal_I2C.h>   // Aleternative vs. #include <LiquidCrystal.h>
+#include <Wire.h> 
+#include <LiquidCrystal.h>  // Aleternative vs. #include <LiquidCrystal_I2C.h> 
 
 
-LiquidCrystal_I2C lcd(0x27, 2, 1, 0, 4, 5, 6, 7, 3, POSITIVE);  // Alterative vs. LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
+LiquidCrystal lcd(12, 11, 5, 4, 3, 2); //Alterative vs. LiquidCrystal_I2C lcd(0x27, 2, 1, 0, 4, 5, 6, 7, 3, POSITIVE);
 float holder = 0; 
 
 bool lastState = HIGH; 
