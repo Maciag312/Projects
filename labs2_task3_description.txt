@@ -1,0 +1,52 @@
+Message can be send over user input to do so we will use following code 
+
+if(Serial.available() > 0) { 
+    wiadomosc = Serial.readStringUntil('\n'); 
+        Serial.println("message is recieved!");
+        Serial.println(wiadomosc);
+}
+
+when message is recieved we can based on text: 
+-Turn led On 
+-Turn led off 
+-Blink led for exactely time 
+
+Led turns off or turn off depending on state: 'turnlight'
+
+if(turnlight==true){
+    digitalWrite(LED_PIN, HIGH);
+  }else{
+    digitalWrite(LED_PIN, LOW);
+  }
+}
+
+to turn on:
+if(wiadomosc == "LED ON"){
+      turnlight = true;
+      wiadomosc = "";
+}
+to turn of:
+if(wiadomosc == "LED OFF"){
+      turnlight = false;
+      wiadomosc = "";
+}
+
+to blink for <time> 
+we substring message to get time we want to blink 
+and then convert it to integer
+
+else if(wiadomosc.substring(0,9) == "LED BLINK"){
+          
+      if(wiadomosc.length()==9){
+           turnlight = true;
+           isBlinked = true;
+          timeStart = millis();
+      }
+      else if(wiadomosc.charAt(10) == '<' && wiadomosc.charAt(wiadomosc.length()-1) == '>'){
+         
+         String numb = wiadomosc.substring(11,wiadomosc.length()-1);
+          timeStart = millis();
+          towait = numb.toInt();
+          turnlight = true; 
+          isBlinked = true;
+ }
