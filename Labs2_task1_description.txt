@@ -1,3 +1,7 @@
+// First Name Surname: Bartlomiej Maciag
+// Group: Friday 07:30
+// Task: 2.1. Lab 2. I/O, LED, UART, Terminal, Button
+
 There is counter which we can increment and decrement by one. It is done using buttons which we had to prepare 
 to remove false alarm clicks which we make by delay and check if state hasn't changed within the time (remove vibration effect)
 We have three option: 
