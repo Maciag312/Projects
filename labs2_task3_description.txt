@@ -1,6 +1,6 @@
 // First Name Surname: Bartlomiej Maciag
 // Group: Friday 07:30
-// Task: 2.1. Lab 2. I/O, LED, UART, Terminal, Button
+// Task: 2.3. Lab 2. I/O, LED, UART, Terminal, Button
 
 Message can be send over user input to do so we will use following code 
 
