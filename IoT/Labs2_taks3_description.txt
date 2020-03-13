@@ -1,0 +1,28 @@
+Algorithm: 
+There’s buffer which holds up to 10 lines of text.
+User adds next line using function writeAndGoNext(line, length, linePositon) 
+where linePosition means position in buffer. User can see up two lines
+in one moment therefore cursorsLine is set and changed with buttons going
+from 0 up to 10. If cursorLine is set to 2 users sees 2nd and 3rd line of buffer.
+Autoscroll: Lines could extend 16 characters which is maximum for screen 16x2
+in order to see whole text text scrolls from right to left and when it ends 
+it starts from beginning. To achieve described functionality every iteration
+text is cut off from the left to 16 positions making it able to fit into screen
+size: Let take example: „Internet of Things is fun’ 
+
+1 iteration: 
+Internet of Things
+2 iteration: 
+nternet of Things 
+3 iteration: 
+ternet of Things i
+4 iteration: 
+ernet of Things is
+5 iteration: 
+rnet of Things is f
+6 iteration: 
+net of Things is fu
+6 iteration: 
+et of Things is fun
+7 iteration: 
+Internet of Things
