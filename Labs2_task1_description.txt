@@ -1,0 +1,14 @@
+There is counter which we can increment and decrement by one. It is done using buttons which we had to prepare 
+to remove false alarm clicks which we make by delay and check if state hasn't changed within the time (remove vibration effect)
+We have three option: 
+- increment counter
+- decrement counter 
+- blink led <counter_state> times 
+Over itreation of loop only one can happen due to use else if statement
+if(button1&&button2)
+  //increment
+else if(button2)
+ //decrement
+else if(button1)
+ //blink several times 
+ 
