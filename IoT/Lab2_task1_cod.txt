@@ -39,11 +39,11 @@ void loop() {
   }
   lastState = curState;
   lcd.setCursor(0, 1);
-  adc = analogRead(A0);
-  voltage = (adc*5)/1024.0;
-  sprintf(data, "V=%d.%02d ADC=%d", (int)voltage, (int)(voltage*100)%100, adc);
+  adc = analogRead(A0); // reading analog values  
+  voltage = (adc*5)/1024.0; // calculating voltage 
+  sprintf(data, "V=%d.%02d ADC=%d", (int)voltage, (int)(voltage*100)%100, adc); // since %f is no longer supported, (int)(voltage*100)%100 provided formula works for floating point 
   lcd.print(data);
-  Serial.print(voltage);
+  Serial.print(voltage); 
   Serial.print(",");//seperator another version is '/t' although here only ',' works
   Serial.print(backlight);
   Serial.println("");
