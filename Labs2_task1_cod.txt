@@ -1,3 +1,7 @@
+// First Name Surname: Bartlomiej Maciag
+// Group: Friday 07:30
+// Task: 2.1. Lab 2. I/O, LED, UART, Terminal, Button
+
 #define LED_PIN 6
 #define BUTTON_BLUE_PIN 2
 #define BUTTON_RED_PIN 4
