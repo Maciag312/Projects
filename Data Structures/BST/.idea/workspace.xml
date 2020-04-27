@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c79fcb67-4653-4978-b467-315d4caef9aa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/qwrt.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/LinkedListBubbleSort/qwert.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/PageReplacementAlg/src/Frames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/PageReplacmentAlgorithm/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/PageReplacmentAlgorithm/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/PageReplacmentAlgorithm/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/PageReplacmentAlgorithm/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/PageReplacmentAlgorithm/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/PageReplacmentAlgorithm/PageReplacmentAlgorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/PageReplacmentAlgorithm/src/Frames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/PageReplacmentAlgorithm/src/Memory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/TwoWayCycledOrderedListWithSentinel/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/TwoWayCycledOreredListWithSentinel/qwer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/TwoWayUnorderdListWithHead/src/qwert.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DisjointSetLinkedList/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DisjointSetLinkedList/DisjointSetLinkedList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DisjointSetLinkedList/src/com/company/q.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HashTAble/q.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JadenCase/src/JadenCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JadenCase/src/JadenCaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OperationOnLinkedLists/src/OneWayLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OperationOnLinkedLists/src/TwoWayCycledOrderedListWithSentinel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SomeProblemsFromCodeWars/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../adrians/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChristmasTree/.idea/ChristmasTree.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChristmasTree/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChristmasTree/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChristmasTree/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChristmasTree/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChristmasTree/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChristmasTree/ChristmasTree.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChristmasTree/bin/ChristmasTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChristmasTree/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChristmasTreeMain/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChristmasTreeMain/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChristmasTreeMain/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChristmasTreeMain/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChristmasTreeMain/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChristmasTreeMain/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChristmasTreeMain/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChristmasTreeMain/ChristmasTreeMain.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChristmasTreeMain/out/production/ChristmasTreeMain/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChristmasTreeMain/qwert.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChristmasTreeMain/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scheduling Algorithms/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scheduling Algorithms/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scheduling Algorithms/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scheduling Algorithms/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scheduling Algorithms/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scheduling Algorithms/Scheduling Algorithms.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scheduling Algorithms/src/Algorithm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scheduling Algorithms/src/Process.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret line="590" column="49" selection-start-line="590" selection-start-column="43" selection-end-line="590" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#13147#13148#0" expanded="true" />
+                <element signature="e#13174#13175#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/qwrt.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>compareto</find>
+      <find>add(</find>
+      <find>inorde</find>
+      <find>post</find>
+      <find>tostring</find>
+      <find>preo</find>
+      <find>postord</find>
+      <find>findel</find>
+      <find>find</find>
+      <find>get</find>
+      <find>getelem</find>
+      <find>getElem</find>
+      <find>equals</find>
+      <find>Node</find>
+      <find>class node</find>
+      <find>node::</find>
+      <find>succe</find>
+      <find>inord</find>
+      <find>rem</find>
+      <find>succes</find>
+      <find>findno</find>
+      <find>add</find>
+      <find>findnode</find>
+      <find>success</find>
+      <find>successor&quot;</find>
+      <find>dele</find>
+      <find>inorder</find>
+      <find>toStringp</find>
+      <find>findNode</find>
+      <find>remove</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/qwrt.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="821" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BST" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BST" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BST" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BST" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BST" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BST" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Main.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558563052297" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="BST" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c79fcb67-4653-4978-b467-315d4caef9aa" name="Default Changelist" comment="" />
+      <created>1557752357015</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557752357015</updated>
+      <workItem from="1557752366852" duration="10847000" />
+      <workItem from="1557783255258" duration="7160000" />
+      <workItem from="1557836759508" duration="604000" />
+      <workItem from="1558009376842" duration="6728000" />
+      <workItem from="1558173228918" duration="28747000" />
+      <workItem from="1558688934036" duration="1153000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="55239000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26752505" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29277107" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5325301" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32891566" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>574</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>441</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="str" />
+        <watch expression="((BST)this).root.right.left" custom="BST" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/qwrt.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="590" column="49" selection-start-line="590" selection-start-column="43" selection-end-line="590" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#13147#13148#0" expanded="true" />
+            <element signature="e#13174#13175#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

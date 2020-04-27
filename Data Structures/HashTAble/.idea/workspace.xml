@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5fe82852-08c3-41c8-a38e-bb9f89ef4e4c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BST/src/qwrt.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/LinkedListBubbleSort/qwert.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/PageReplacementAlg/src/Frames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/PageReplacmentAlgorithm/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/PageReplacmentAlgorithm/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/PageReplacmentAlgorithm/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/PageReplacmentAlgorithm/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/PageReplacmentAlgorithm/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/PageReplacmentAlgorithm/PageReplacmentAlgorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/PageReplacmentAlgorithm/src/Frames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/PageReplacmentAlgorithm/src/Memory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/TwoWayCycledOrderedListWithSentinel/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/TwoWayCycledOreredListWithSentinel/qwer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/TwoWayUnorderdListWithHead/src/qwert.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JadenCase/src/JadenCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JadenCase/src/JadenCaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OperationOnLinkedLists/src/OneWayLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OperationOnLinkedLists/src/TwoWayCycledOrderedListWithSentinel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SomeProblemsFromCodeWars/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../adrians/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChristmasTree/.idea/ChristmasTree.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChristmasTree/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChristmasTree/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChristmasTree/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChristmasTree/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChristmasTree/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChristmasTree/ChristmasTree.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChristmasTree/bin/ChristmasTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChristmasTree/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChristmasTreeMain/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChristmasTreeMain/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChristmasTreeMain/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChristmasTreeMain/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChristmasTreeMain/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChristmasTreeMain/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChristmasTreeMain/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChristmasTreeMain/ChristmasTreeMain.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChristmasTreeMain/out/production/ChristmasTreeMain/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChristmasTreeMain/qwert.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChristmasTreeMain/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scheduling Algorithms/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scheduling Algorithms/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scheduling Algorithms/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scheduling Algorithms/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scheduling Algorithms/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scheduling Algorithms/Scheduling Algorithms.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scheduling Algorithms/src/Algorithm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scheduling Algorithms/src/Process.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2398">
+              <caret line="463" lean-forward="true" selection-start-line="463" selection-end-line="463" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HashTAble.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/q.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="3" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>LIn</find>
+      <find>LInkedL</find>
+      <find>twoWa</find>
+      <find>getName</find>
+      <find>tostring</find>
+      <find>size</find>
+      <find>occu</find>
+      <find>ld xx</find>
+      <find>ld qq</find>
+      <find>occup</find>
+      <find>x</find>
+      <find>hashtable</find>
+      <find>Document</find>
+      <find>getdoc</find>
+      <find>get</find>
+      <find>document</find>
+      <find>has</find>
+      <find>max</find>
+      <find>add</find>
+      <find>currentdoc</find>
+      <find>%</find>
+      <find>double</find>
+      <find>doublearr</find>
+      <find>abcd</find>
+      <find>hashcode</find>
+      <find>tostr</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/q.txt" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HashTAble" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HashTAble" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HashTAble" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HashTAble" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HashTAble" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HashTAble" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Main.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557767659754" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="HashTAble" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5fe82852-08c3-41c8-a38e-bb9f89ef4e4c" name="Default Changelist" comment="" />
+      <created>1556468097378</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556468097378</updated>
+      <workItem from="1556468103001" duration="2371000" />
+      <workItem from="1556900618127" duration="507000" />
+      <workItem from="1556994320288" duration="16105000" />
+      <workItem from="1557479476724" duration="1027000" />
+      <workItem from="1557752484944" duration="1221000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="21231000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1502146" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.06506024" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32891566" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2398">
+          <caret line="463" lean-forward="true" selection-start-line="463" selection-end-line="463" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HashTAble.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="3" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
